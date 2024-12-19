@@ -22,7 +22,7 @@ This project converts spoken input into text and translates it into different la
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/speech-to-text-translation.git
+ https://github.com/E-beep-web/speech.git
    ```
 2. Open `index.html` in a web browser to run the application.
 
